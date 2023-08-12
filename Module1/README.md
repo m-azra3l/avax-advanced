@@ -68,4 +68,3 @@ To start your DeFi Kingdom adventure, follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
