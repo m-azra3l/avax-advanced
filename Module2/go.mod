@@ -9,8 +9,6 @@ require (
 	github.com/ava-labs/hypersdk/examples/tokenvm v0.0.0-20230511233943-bdd30e00bdff
 	github.com/fatih/color v1.13.0
 	github.com/manifoldco/promptui v0.9.0
-	github.com/onsi/ginkgo/v2 v2.7.0
-	github.com/onsi/gomega v1.25.0
 	github.com/prometheus/client_golang v1.14.0
 	github.com/spf13/cobra v1.6.1
 	go.uber.org/zap v1.24.0
@@ -55,7 +53,6 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/btree v1.1.2 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/gorilla/rpc v1.2.0 // indirect
@@ -85,6 +82,7 @@ require (
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/nbutton23/zxcvbn-go v0.0.0-20180912185939-ae427f1e4c1d // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
+	github.com/onsi/ginkgo/v2 v2.7.0 // indirect
 	github.com/openzipkin/zipkin-go v0.4.1 // indirect
 	github.com/otiai10/copy v1.9.0 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect

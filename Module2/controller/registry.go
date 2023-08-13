@@ -6,9 +6,9 @@ import (
 	"github.com/ava-labs/hypersdk/chain"
 	"github.com/ava-labs/hypersdk/codec"
 
-	"github.com/rafael-abuawad/samplevm/actions"
-	"github.com/rafael-abuawad/samplevm/auth"
-	"github.com/rafael-abuawad/samplevm/consts"
+	"tokenvm/actions"
+	"tokenvm/auth"
+	"tokenvm/consts"
 )
 
 // Setup types
